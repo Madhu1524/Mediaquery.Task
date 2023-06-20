@@ -1,0 +1,186 @@
+@media screen and (max-width: 768px){
+.nav{
+	margin-top: 5px;
+}
+.nav h1{
+	font-size: 50px;
+	padding: 20px 0px 0px 20px;
+}
+.nav p{
+	padding: 0px 0px 0px 160px;
+	font-size: 20px;
+}
+.nav ul{
+	list-style-type: none;
+	display: inline-flex;
+	padding: 0px 0px 20px 350px;
+}
+.nav ul li{
+	padding-right: 15px;
+	color: gray;
+	font-size: 20px;
+}
+.image{
+	height: 300px;
+}
+.search{
+	color: white;
+	padding: 40px 0px 40px 20px;
+}
+.search p{
+	padding-right: 10px;
+	font-size: 20px;
+}
+.search input{
+	padding: 5px 10px;
+	margin-right: 10px;
+	border-radius: 8px;
+}
+.search input[value="search"]{
+	background-color: black;
+	color: white;
+	border-style: none;
+}
+.container{
+	padding: 150px 80px 0px 150px;
+	background-color: #ebe8de;
+	font-family: arial;
+}
+.middle{
+	display: block;
+}
+.middle .x{
+	display: inline-flex;
+	padding-bottom: 30px;
+}
+.x ul li{
+	line-height: 25px;
+}
+.x ul{
+	list-style-type: none;
+	text-align: left;
+	padding-right: 15px;
+}
+.x .material-icons{
+	font-size: 80px;
+}
+.container span{
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 150px;
+
+}
+.container hr{
+	color: lightgray;
+	border-bottom: none;
+	width: 97%;
+	height: 1px;
+}
+.img img{
+	padding-right: 20px;
+	height: 120px;
+	width: 260px;
+}
+.img ul{
+	list-style-type: none;
+	padding-right: 40px;
+}
+.img1{
+	display: flex;
+	padding-top: 30px;
+}
+.img{
+	display: block;
+	padding-top: 20px;
+	line-height: 20px;
+}
+.img p{
+	width: 240px;
+	border-bottom: 1px solid gray;
+}
+.final{
+	display: block;
+	font-size: 16px;
+	line-height: 30px;
+}
+.final ul{
+	text-align: justify;
+	padding-right:50px;
+}
+.final ul{
+	list-style-type: none;
+}
+.final ul li{
+	display: inline-flex;
+}
+.final .fa, .material-icons{
+	margin-left: -40px;
+	font-size:80px;
+	padding-right: 25px;
+}
+.climax{
+	display: flex;
+	padding: 30px 10px 0px 10px;
+	background-color: #333;
+}
+.climax h3{
+	color: white;
+	font-size: 18px;
+	border-bottom: 1px solid #444;
+	padding-bottom: 14px;
+}
+.climax p{
+	color: #ababab;
+}
+.y1{
+	width: 40%;
+	font-size: 12px;
+	padding-right: 18px;
+}
+.y1 p{
+	font-size: 12px;
+}
+.y2{
+	width: 50%;
+}
+.y2 p{
+	border-bottom: 1px solid #444;
+	line-height: 40px;
+	font-size: 14px;
+}
+.y2 p i{
+	font-size:15px;
+}
+.y3 p{
+	font-size: 12px;
+}
+.y3 h3{
+	margin-left: 20px;
+}
+.y3 img{
+	margin: 5px 5px 10px 10px;
+	height: 60px;
+	opacity: 0.8;
+	width: 100px;
+}
+.y3 picture{
+	display: flex;
+	margin-left: 15px;
+}
+footer{
+	background-color: black;
+	padding: 20px 60px 20px 60px;
+	display: flex;
+	color: #ababab;
+}
+footer .fa{
+	font-size: 24px;
+	float: right;
+	padding-right: 10px;
+}
+footer p{
+   padding-left: 20px;
+   width: 100%;
+   font-size: 12px; 
+}
+}

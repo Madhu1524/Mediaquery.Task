@@ -1,0 +1,50 @@
+@media screen and (min-width: 375px) and (max-width: 425px) {
+.nav{
+	margin-top: 5px;
+	background-color: #ebe8de;
+}
+.nav h1{
+	font-family:cursive;
+	color: #e56038;
+	font-size: 15px;
+	padding: 10px 0px 0px 10px;
+}
+.nav p{
+	padding: 0px 0px 0px 80px;
+	font-size: 12px;
+}
+.nav ul{
+	list-style-type: none;
+	display: inline-flex;
+	padding: 0px 0px 20px 80px;
+}
+.nav ul li{
+	padding-right: 15px;
+	color: gray;
+	font-size: 15px;
+
+}
+.image{
+	display: none;
+}
+.search{
+	color: white;
+	padding: 10px 0px 10px 0px;
+	display: block;
+}
+.search p{
+	padding-right: 20px;
+	padding-top: 10px;
+	font-size: 12px;
+}
+.search input{
+	padding: 6px 14px;
+	margin-right: 40px;
+	border-radius: 8px;
+}
+.search input[value="search"]{
+	background-color: black;
+	color: white;
+	border-style: none;
+}
+}

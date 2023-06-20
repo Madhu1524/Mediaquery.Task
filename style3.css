@@ -1,0 +1,170 @@
+@media screen and (min-width: 1440px) and (max-width: 2560px){
+	.nav{
+	margin-top: 5px;
+	background-color: #ebe8de;
+}
+.nav h1{
+	font-family:cursive;
+	color: #e56038;
+	font-size: 50px;
+	padding: 35px 0px 0px 160px;
+}
+.nav p{
+	padding: 0px 0px 0px 300px;
+	font-size: 20px;
+}
+.nav ul{
+	list-style-type: none;
+	display: inline-flex;
+	padding: 0px 0px 20px 800px;
+}
+.nav ul li{
+	padding-right: 30px;
+	color: gray;
+	font-size: 20px;
+
+}
+.image{
+	height: 400px;
+}
+.search{
+	color: white;
+	padding: 30px 0px 30px 180px;
+	display: inline-flex;
+}
+.search p{
+	padding-right: 80px;
+	font-size: 20px;
+}
+.search input{
+	padding: 7px 15px;
+	margin-right: 50px;
+	border-radius: 10px;
+}
+.search input[value="search"]{
+	background-color: black;
+	color: white;
+	border-style: none;
+}
+.container{
+	padding: 100px 150px 0px 150px;
+	background-color: #ebe8de;
+	font-family: arial;
+	color: lightgray;
+}
+.middle{
+	display: flex;
+}
+.middle .x{
+	display: inline-flex;
+}
+.x ul li{
+	line-height: 25px;
+}
+.x ul{
+	list-style-type: none;
+	text-align: left;
+	padding-right: 15px;
+}
+.x .material-icons{
+	font-size: 80px;
+}
+.container span{
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 150px;
+
+}
+.container hr{
+	border-bottom: 1px solid gray;
+	width: 97%;
+}
+.img img{
+	padding-right: 20px;
+	height: 120px;
+	width: 240px;
+}
+.img ul{
+	list-style-type: none;
+}
+.img{
+	display: flex;
+	padding-top: 20px;
+	line-height: 20px;
+}
+.img p{
+	border-bottom: 1px solid gray;
+
+}
+.final{
+	padding: 50px 0px 0px 0px;
+	display: flex;
+	font-size: 16px;
+	line-height: 25px;
+}
+.final ul{
+	list-style-type: none;
+}
+.final ul li{
+	display: inline-flex;
+}
+.final ul li i{
+	font-size:54px;
+	padding-right: 25px;
+}
+.climax{
+	display: flex;
+	padding: 40px 150px 0px 150px;
+	background-color: #333;
+}
+.climax h3{
+	color: white;
+	font-size: 25px;
+	border-bottom: 1px solid #444;
+	padding-bottom: 20px;
+}
+.climax p{
+	color: #ababab;
+}
+.y1{
+	width: 33.33%;
+	font-size: 18px;
+	padding-right: 30px;
+}
+.y1 p{
+	font-size: 20px;
+	line-height: 30px;
+}
+.y2 p{
+	border-bottom: 1px solid #444;
+	line-height: 50px;
+	font-size: 20px;
+}
+.y3 p i{
+	font-size: 24px;
+}
+.y3 img{
+	height: 70px;
+	width: 100px;
+	border-style: 2px solid #444;
+	padding: 0px 15px 15px 25px;
+}
+.y3 picture{
+	display: flex;
+}
+footer{
+	background-color: black;
+	padding: 50px 0px 50px 100px;
+	display: flex;
+	color: #ababab;
+}
+footer i{
+	float: right;
+	font-size:30px;
+	padding-right: 20px;
+}
+footer p{
+	padding:0% 30% 0% 10%;  
+}
+}
+
